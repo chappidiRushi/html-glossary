@@ -90,6 +90,13 @@ The `id` attribute is used to assign a unique identifier to an HTML element. It 
 </div>
 ```
 
+### **iframe**
+The `<iframe>` element is used to embed another HTML document within the current document. It creates an inline frame.
+
+```html
+<iframe src="https://example.com" width="600" height="400"></iframe>
+```
+
 # T
 ### **Tag**
 A tag is a fundamental part of HTML used to define elements in a document. It consists of an opening tag `<tagname>` and a closing tag `</tagname>`.
