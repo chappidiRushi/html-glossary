@@ -80,3 +80,11 @@ The `id` attribute is used to assign a unique identifier to an HTML element. It 
   <p>This is a paragraph.</p>
 </div>
 ```
+
+# T
+### **Tag**
+A tag is a fundamental part of HTML used to define elements in a document. It consists of an opening tag `<tagname>` and a closing tag `</tagname>`.
+
+```html
+<p>This is a paragraph.</p>
+```
