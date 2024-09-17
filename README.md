@@ -50,6 +50,15 @@ The `class` attribute in HTML is used to assign one or more class names to an HT
   <p class="text-center">This is a paragraph.</p>
 </div>
 ```
+## E
+
+### **Entities**
+Entities are special characters in HTML that are represented by a code starting with an ampersand (`&`) and ending with a semicolon (`;`). They are used to display reserved characters or symbols.
+
+```html
+<p>&copy; 2024 My Website</p>
+<p>&lt;div&gt;HTML code&lt;/div&gt;</p>
+```
 
 ## H
 
