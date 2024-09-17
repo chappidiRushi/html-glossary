@@ -32,6 +32,15 @@ An HTML5 element used to draw graphics on the fly via scripting (usually JavaScr
 ```html
 <canvas id="myCanvas"></canvas>
 ```
+### **Children**
+Children refer to the elements that are nested inside a parent HTML element.
+
+```html
+<div>
+  <p>This is a child element.</p>
+  <span>Another child element.</span>
+</div>
+```
 
 ### **Class**
 The `class` attribute in HTML is used to assign one or more class names to an HTML element. These class names can be used to apply CSS styles or to target elements with JavaScript. The `class` attribute allows for multiple class names separated by spaces.
