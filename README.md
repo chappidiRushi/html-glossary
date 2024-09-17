@@ -60,6 +60,17 @@ Entities are special characters in HTML that are represented by a code starting 
 <p>&lt;div&gt;HTML code&lt;/div&gt;</p>
 ```
 
+## F
+
+### **Favicon**
+A favicon is a small icon associated with a website, typically displayed in the browser tab. It is defined using the `<link>` element in the `<head>` section of the HTML document.
+
+```html
+<head>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+```
+
 ## H
 
 ### **Head**
