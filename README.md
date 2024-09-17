@@ -51,6 +51,19 @@ The `class` attribute in HTML is used to assign one or more class names to an HT
 </div>
 ```
 
+## H
+
+### **Head**
+The `<head>` element contains meta-information about the HTML document, such as the title, links to stylesheets, and metadata.
+
+```html
+<head>
+  <title>Document Title</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles.css">
+</head>
+```
+
  ### **href**
 The `href` attribute specifies the URL of a link.
 
